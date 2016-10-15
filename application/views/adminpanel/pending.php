@@ -15,10 +15,11 @@
                 <table class="table no-margin">
                   <thead>
                   <tr>
-                    <th>Order ID</th>
-                    <th>Item</th>
-                    <th>Status</th>
-                    <th>Popularity</th>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Created By</th>
+                    <th>Created At</th>
+                    <th>Actions</th>
                   </tr>
                   </thead>
                   <tbody>
